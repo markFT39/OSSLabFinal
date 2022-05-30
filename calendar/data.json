@@ -1,0 +1,100 @@
+[{
+  "_id": 1,
+  "title": "HW16: Progress Report",
+  "description": "개발 단계 중간 보고서 작성",
+  "start": "2022-06-02T11:30",
+  "end": "2022-06-02T12:45",
+  "type": "수업",
+  "username": "A",
+  "backgroundColor": "#74c0fc",
+  "textColor": "#ffffff",
+  "allDay": false
+}, {
+  "_id": 2,
+  "title": "Presentation Video Preparation",
+  "description": "발표 영상 촬영",
+  "start": "2022-06-09T11:30",
+  "end": "2022-06-09T12:45",
+  "type": "수업",
+  "username": "A",
+  "backgroundColor": "#74c0fc",
+  "textColor": "#ffffff",
+  "allDay": false
+}, {
+  "_id": 3,
+  "title": "Regular Lecture (HW15)",
+  "description": "LSM 수업 및 과제",
+  "start": "2022-05-30T11:30",
+  "end": "2022-05-30T12:45",
+  "type": "수업",
+  "username": "A",
+  "backgroundColor": "#74c0fc",
+  "textColor": "#ffffff",
+  "allDay": false
+}, {
+  "_id": 4,
+  "title": "GitHub Link Submission",
+  "description": "GitHub link 제출일",
+  "start": "2022-06-06T11:30",
+  "end": "2022-06-06T12:45",
+  "type": "수업",
+  "username": "A",
+  "backgroundColor": "#74c0fc",
+  "textColor": "#ffffff",
+  "allDay": false
+}, {
+  "_id": 5,
+  "title": "휴식",
+  "description": "일요일 하루 휴식 (가능하다면,,,)",
+  "start": "2022-06-05",
+  "end": "2022-06-05",
+  "type": "휴식",
+  "username": "A",
+  "backgroundColor": "#a9e34b",
+  "textColor": "#ffffff",
+  "allDay": true
+}, {
+  "_id": 6,
+  "title": "중간고사 기간",
+  "description": "시험 기간",
+  "start": "2022-06-13",
+  "end": "2022-06-17",
+  "type": "과제",
+  "username": "A",
+  "backgroundColor": "#D25565",
+  "textColor": "#ffffff",
+  "allDay": true
+}, {
+  "_id": 7,
+  "title": "종강",
+  "description": "종강!",
+  "start": "2022-06-18",
+  "end": "2022-06-24",
+  "type": "외부약속",
+  "username": "A",
+  "backgroundColor": "#ffa94d",
+  "textColor": "#ffffff",
+  "allDay": true
+}, {
+  "_id": 8,
+  "title": "채플",
+  "description": "학교 수요 채플",
+  "start": "2022-06-08T17:30",
+  "end": "2022-06-08T18:45",
+  "type": "수업",
+  "username": "A",
+  "backgroundColor": "#9775fa",
+  "textColor": "#ffffff",
+  "allDay": false
+}, {
+  "_id": 9,
+  "title": "채플",
+  "description": "학교 수요 채플",
+  "start": "2022-06-15T17:30",
+  "end": "2022-06-15T18:45",
+  "type": "수업",
+  "username": "A",
+  "backgroundColor": "#9775fa",
+  "textColor": "#ffffff",
+  "allDay": false
+}]
