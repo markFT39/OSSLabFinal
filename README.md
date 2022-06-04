@@ -59,7 +59,7 @@
   
   3.Now you are ready to proceed with your own project.
   ---------------------------------------------
-    -Add a schedule and share it with the QR code
+  - Add a schedule and share it with the QR code
 
 4.My contribution.
 ==========================
