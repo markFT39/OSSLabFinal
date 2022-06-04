@@ -12,12 +12,12 @@ Why is this project useful?
 
 How to get started?
 ==========================
-  1.Download open-source or fork this repository
+  1.Download open-source or fork this repository 
     - https://fullcalendar.io/
     - https://sourceforge.net/projects/phpqrcode/
     -asd
   
-  2.Modifying the PHP QRcode File
+  2.Modifying the PHP QRcode File 
     - If you download PHPQR codes yourself, you need to write a code that generates an image file.
     
     ``c
