@@ -13,10 +13,41 @@ Why is this project useful?
 How to get started?
 ==========================
   1.Download open-source or fork this repository
-    - 
+    - https://fullcalendar.io/
     - https://sourceforge.net/projects/phpqrcode/
   
-  2.
+  2.Modifying the PHP QRcode File
+    - If you download PHPQR codes yourself, you need to write a code that generates an image file.
+    
+    ```c
+    <html>
+    <head>
+    <title></title>
+    </head>
+    <body>
+    <?php
+        include_once "qrlib.php";
+
+        $codeContents = "Address of your calendar web page";
+        $filePath = md5($codeContents).".png";
+
+        if(!file_exists($filePath)) {
+            QRcode::png($codeContents, "QRcode.png");
+            echo "파일이 정상적으로 생성되었습니다.";
+            echo "<hr/>";
+        } else {
+            echo "파일이 이미 생성되어 있습니다.\n파일을 지우거나 이름을 바꾸어 실행하세요.";
+            echo "<hr/>";
+        }
+
+        echo "저장된 파일명 : ".$filePath;
+        echo "<hr/>";
+        echo "<img src='".$filePath."'/>";
+    ?>
+
+    </body>
+    </html>
+    ```
   
   3.
   
