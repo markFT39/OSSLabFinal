@@ -1,19 +1,19 @@
 # OSSLabFinal
 
 1.What does this project do?
-==========================
+---------------------------------------------
   - Helps you create a calendar that lets you organize your personal schedules.
   - Generate a QR code for a calendar web page so you can share it with others.
 
 
 2.Why is this project useful?
-==========================
+---------------------------------------------
   - If you need to share a schedule with multiple people, such as an event schedule for a club, this open-source help you easy to resolve it.
   - It helps you easily generate QR code images and can also be used for promotional materials.
 
 
 3.How to get started?
-==========================
+---------------------------------------------
   1.Download open-source or fork this repository 
   ---------------------------------------------
   - https://fullcalendar.io/
@@ -67,7 +67,7 @@
 
 
 4.My contribution.
-==========================
+---------------------------------------------
   1. I made this by combining two open sources, fullcalendar, and PHP QRcodes.
   2. The category in the calendar has been modified to suit the university.
   3. A part of the code has been newly created to obtain an image file of the QR code.
@@ -75,7 +75,7 @@
 
 
 5.Where can people get more help, if needed?
-==========================
+---------------------------------------------
   - https://fullcalendar.io/
     - Calendar Open Source
   -  https://github.com/SaintSilver/FullCalendar-Example
@@ -87,5 +87,5 @@
 
 
 6.Presentation Video (YouTube) Link
-==========================
+---------------------------------------------
   - [YouTube Presentation Video Link](https://www.youtube.com/watch?v=Q-AzC9IC7AY)
