@@ -19,7 +19,7 @@ How to get started?
   2.Modifying the PHP QRcode File
     - If you download PHPQR codes yourself, you need to write a code that generates an image file.
     
-    ```c
+    ``c
     <html>
     <head>
     <title></title>
@@ -47,7 +47,7 @@ How to get started?
 
     </body>
     </html>
-    ```
+    ccc
   
   3.
   
