@@ -58,11 +58,14 @@
   
   3.Now you are ready to proceed with your own project.
   ---------------------------------------------
+    -Add a schedule and share it with the QR code
 
 4.My contribution.
 ==========================
-
-
+  1.I made this by combining two open sources, fullcalendar, and PHP QRcodes.
+  2.The category in the calendar has been modified to suit the university.
+  3.A part of the code has been newly created to obtain an image file of the QR code.
+  4.The calendar web page has been modified so that ORcode image can be displayed on the calendar web page screen.
 
 5.Where can people get more help, if needed?
 ==========================
@@ -70,7 +73,7 @@
   -  
   - https://sourceforge.net/projects/phpqrcode/
   - 22100237@handong.ac.kr
-    *my email adress
+    - my email adress
 
 
 6.Presentation Video (YouTube) Link
