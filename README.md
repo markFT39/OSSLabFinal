@@ -52,6 +52,7 @@
    ```
    
    -  Please add the following source code to your calendar web page
+  
   ```c
     <img src="../phpqrcode/QRcode.png">
   ```
