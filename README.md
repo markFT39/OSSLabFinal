@@ -17,7 +17,7 @@ How to get started?
   - https://sourceforge.net/projects/phpqrcode/
   
   2.Modifying the PHP QRcode File 
-    - If you download PHPQR codes yourself, you need to write a code that generates an image file.
+  - If you download PHPQR codes yourself, you need to write a code that generates an image file.
     
     ``c
     <html>
