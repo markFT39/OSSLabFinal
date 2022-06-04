@@ -21,7 +21,7 @@
   
   
   2.Modifying the PHP QRcode File 
-  - If you download PHPQR codes yourself, you need to write a code that generates an image file.
+  - If you download PHPQR codes yourself, you need to write a php file that generates an image file.
   ```
     <html>
     <head>
