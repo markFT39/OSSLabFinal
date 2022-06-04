@@ -13,12 +13,11 @@ Why is this project useful?
 How to get started?
 --------------------------
   1.Download open-source or fork this repository 
-    - https://fullcalendar.io/
-    - https://sourceforge.net/projects/phpqrcode/
+  - https://fullcalendar.io/
+  - https://sourceforge.net/projects/phpqrcode/
   
   2.Modifying the PHP QRcode File 
   - If you download PHPQR codes yourself, you need to write a code that generates an image file.
-
   ```
     <html>
     <head>
@@ -48,6 +47,11 @@ How to get started?
     </body>
     </html>
    ```
+   
+   -  Please add the following source code to your calendar web page
+  ```c
+    <img src="../phpqrcode/QRcode.png">
+  ```
    
   
   3.
