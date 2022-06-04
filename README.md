@@ -75,8 +75,8 @@
 ---------------------------------------------
   - https://fullcalendar.io/
     - Calendar Open Source
-  -  https://github.com/SaintSilver/FullCalendar-Example
-    - Calendar open source used for this repository 
+  - https://github.com/SaintSilver/FullCalendar-Example
+    - Calendar open source used for this repository
   - https://sourceforge.net/projects/phpqrcode/
     - QR code open source
   - 22100237@handong.ac.kr
