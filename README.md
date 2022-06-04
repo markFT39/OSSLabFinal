@@ -15,14 +15,12 @@
 3.How to get started?
 ---------------------------------------------
   1.Download open-source or fork this repository 
-  ---------------------------------------------
   - https://fullcalendar.io/
   - https://sourceforge.net/projects/phpqrcode/
   - https://github.com/markFT39/OSSLabFinal
   
   
   2.Modifying the PHP QRcode File 
-  ---------------------------------------------
   - If you download PHPQR codes yourself, you need to write a code that generates an image file.
   ```
     <html>
@@ -62,7 +60,6 @@
   
   
   3.Now you are ready to proceed with your own project.
-  ---------------------------------------------
   - Add a schedule and share it with the QR code
 
 
