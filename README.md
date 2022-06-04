@@ -16,8 +16,10 @@
   ---------------------------------------------
   - https://fullcalendar.io/
   - https://sourceforge.net/projects/phpqrcode/
+  - https://github.com/markFT39/OSSLabFinal
   
   2.Modifying the PHP QRcode File 
+  ---------------------------------------------
   - If you download PHPQR codes yourself, you need to write a code that generates an image file.
   ```
     <html>
@@ -53,12 +55,9 @@
   ```c
     <img src="../phpqrcode/QRcode.png">
   ```
-   
-  3.
   
-  4.
-
-
+  3.Now you are ready to proceed with your own project.
+  ---------------------------------------------
 
 4.My contribution.
 ==========================
