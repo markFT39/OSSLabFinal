@@ -16,7 +16,9 @@
 ---------------------------------------------
   1.Download open-source or fork this repository 
   - https://fullcalendar.io/
+    - Calendar Open Source
   - https://sourceforge.net/projects/phpqrcode/
+    - QR code open source
   - https://github.com/markFT39/OSSLabFinal
   
   
