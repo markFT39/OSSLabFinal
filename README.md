@@ -1,4 +1,4 @@
-# OSSLabFinal
+# OSSLabFinal 22100237 - HyungJin Kim
 
 1.What does this project do?
 ---------------------------------------------
